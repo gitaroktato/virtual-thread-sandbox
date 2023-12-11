@@ -4,12 +4,16 @@ Sandbox for evaluating facts and myths about Java 21 virtual threads
 
 
 # References (more or less)
+## JEPs
 - https://openjdk.org/jeps/444
 - https://openjdk.org/jeps/439
 - https://openjdk.org/jeps/453
 
+## Framework Support
 - https://quarkus.io/guides/virtual-threads
 - https://spring.io/blog/2022/10/11/embracing-virtual-threads
+
+## Benchmarking
 - https://netflixtechblog.com/java-in-flames-e763b3d32166
 
 ## Articles
