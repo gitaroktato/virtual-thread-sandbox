@@ -15,6 +15,9 @@ Sandbox for evaluating facts and myths about Java 21 virtual threads
 
 ## Benchmarking
 - https://netflixtechblog.com/java-in-flames-e763b3d32166
+- https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html#Java
+- https://github.com/brendangregg/FlameGraph
+- https://github.com/async-profiler/async-profiler
 
 ## Articles
 - https://www.javacodegeeks.com/2023/02/reactives-looming-doom-part-iv-the-end-of-reactive.html#:~:text=Essentially%2C%20the%20Project%20Loom%20made,can%20they%20can%20happily%20coexist.
