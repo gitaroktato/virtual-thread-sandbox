@@ -17,6 +17,7 @@ Sandbox for evaluating facts and myths about Java 21 virtual threads
 - https://netflixtechblog.com/java-in-flames-e763b3d32166
 - https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html#Java
 - https://github.com/brendangregg/FlameGraph
+
 Installing `perf` under WSL2
 - https://stackoverflow.com/a/60276918/8321787
 
